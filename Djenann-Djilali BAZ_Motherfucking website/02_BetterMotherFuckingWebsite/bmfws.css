@@ -1,0 +1,17 @@
+body {
+    margin-top:  40px;
+    margin-bottom: 40px;
+    max-width: 650px;
+    line-height: 1.6;
+    margin-left: 376.500px;
+    margin-right: 376.500px;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+}
+p {font-size: 18px;}
+ul {font-size: 18px;
+line-height: 1.6;}
+h1 {font-size: 36px;}
+h2 {font-size: 27px;}
+h3 {font-size: 21px;}
